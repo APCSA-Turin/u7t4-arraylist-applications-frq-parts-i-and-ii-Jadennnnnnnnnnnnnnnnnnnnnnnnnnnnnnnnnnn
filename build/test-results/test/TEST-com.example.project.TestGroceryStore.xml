@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestGroceryStore" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-10T14:20:58" hostname="codespaces-ce4687" time="0.005">
+<testsuite name="com.example.project.TestGroceryStore" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-12T00:27:31" hostname="codespaces-ce4687" time="0.012">
   <properties/>
   <testcase name="testReorderPARTA()" classname="com.example.project.TestGroceryStore" time="0.002"/>
-  <testcase name="testReorderPARTB()" classname="com.example.project.TestGroceryStore" time="0.002"/>
+  <testcase name="testReorderPARTB()" classname="com.example.project.TestGroceryStore" time="0.007"/>
   <system-out><![CDATA[hi
 hi
 hi
